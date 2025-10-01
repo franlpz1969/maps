@@ -1,0 +1,7 @@
+{
+  "name": "mapa-residencias-madrid",
+  "version": "1.0.0",
+  "description": "Mapa interactivo de residencias en Madrid",
+  "main": "index.js",
+  "scripts": {
+    "

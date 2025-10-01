@@ -1,0 +1,7 @@
+{
+  "name": "Mapa de Residencias de Madrid",
+  "description": "Una aplicación de mapa interactivo para visualizar residencias de mayores en la Comunidad de Madrid. Pase el cursor sobre un punto para ver los detalles.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
